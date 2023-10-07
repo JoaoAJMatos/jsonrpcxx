@@ -40,7 +40,7 @@
 #include <variant>
 
 /** Skynet Includes */
-#include <json/json.hpp> // nlohmann/json.hpp
+#include <json.hpp> // nlohmann/json.hpp
 
 /** MACROS */
 #if defined(__APPLE__)
